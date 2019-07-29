@@ -1,0 +1,24 @@
+{
+  "settings":{
+    "outDated": false, 
+    "baseUrl": "", 
+    "enableReactSolicitedFeedback": true
+  }, 
+  "resources": {
+    "PrivacyPolicy": "Privacy Policy",
+    "GreetingQuestion": "Answer a couple of quesitons?",
+    "GreetingBtnOK": "OK",
+    "GreetingBtnNotnow": "Not now",
+    "RatingTextUnlikely": "Unlikely",
+    "RatingTextLikely": "Likely",
+    "VerbatimQuestion": "How could we make it better?",
+    "VerbatimCommentsLabel": "Comments",
+    "VerbatimBtnSend": "Send",
+    "ContactQuestion": "Thanks! May we contact you for more details?",
+    "ContactEmailLabel": "Your email address",
+    "ContactBtnYes": "Yes",
+    "ContactBtnNo": "No",
+    "Thankyou": "Thank you!",
+    "CloseBtnAriaLabel": "Close"
+  }
+}
