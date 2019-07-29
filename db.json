@@ -20,5 +20,7 @@
     "ContactBtnNo": "No",
     "Thankyou": "Thank you!",
     "CloseBtnAriaLabel": "Close"
+  }, 
+  "attributes": {
   }
 }
