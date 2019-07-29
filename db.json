@@ -21,5 +21,26 @@
     "Thankyou": "Thank you!",
     "CloseBtnAriaLabel": "Close"
   }, 
-  "token": "12345678909"
+  "token": "12345678909", 
+  "survey13":[
+    {
+      "Contextual": false,
+      "ControlTowerFlight": "Flight 3",
+      "ExpName": "Exp 3",
+      "FeatureArea": "ModalM365NPS",
+      "FlowId": 1,
+      "FlyoutTimer": -1,
+      "Id": 13,
+      "Name": "m365nps",
+      "Priority": 1,
+      "Question": "How likely are you to recommend Microsoft 365 to a friend or colleague?",
+      "QuestionLabel": "ModalM365NPSSurvey",
+      "QuestionSheet": "{}",
+      "RatingDirection": 1,
+      "RatingScale": 6,
+      "RatingText": "{}",
+      "RatingType": 1,
+      "UseQuestionLabel": 1
+    }
+  ]
 }
