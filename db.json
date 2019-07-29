@@ -20,5 +20,6 @@
     "ContactBtnNo": "No",
     "Thankyou": "Thank you!",
     "CloseBtnAriaLabel": "Close"
-  }
+  }, 
+  "token": "faketoken123125445"
 }
