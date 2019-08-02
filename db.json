@@ -43,5 +43,8 @@
         "ControlTowerFlight": "FY20 Flight",
         "Position": "BR"
     }
-]
+], 
+  "updateModalFeedbackStatus": {
+    "response": true
+  }
 }
