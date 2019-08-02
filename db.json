@@ -21,26 +21,27 @@
     "Thankyou": "Thank you!",
     "CloseBtnAriaLabel": "Close"
   }, 
-  "survey13":[
+  "surveysInfo":
+  [
     {
-      "Contextual": false,
-      "ControlTowerFlight": "Flight 3",
-      "ExpName": "Exp 3",
-      "FeatureArea": "ModalM365NPS",
-      "FlowId": 1,
-      "FlyoutTimer": -1,
-      "Id": 13,
-      "Name": "m365nps",
-      "Priority": 1,
-      "Question": "How likely are you to recommend Microsoft 365 to a friend or colleague?",
-      "QuestionLabel": "ModalM365NPSSurvey",
-      "QuestionSheet": "{}",
-      "RatingDirection": 1,
-      "RatingScale": 6,
-      "RatingText": "{}",
-      "RatingType": 1,
-      "UseQuestionLabel": 1
+        "Id": 20,
+        "Name": "m365npsreactinangular",
+        "Question": "Would you recommend Microsoft 365 to a friend or colleague, if asked",
+        "RatingScale": 5,
+        "Priority": 1,
+        "Contextual": false,
+        "FeatureArea": "ModalM365NPSReactInAgunlar",
+        "UseQuestionLabel": 0,
+        "QuestionLabel": "ModalM365NPSSurvey",
+        "RatingDirection": 1,
+        "RatingType": 1,
+        "RatingText": "{\"useRatingLabel\":true,\"ratingText\":[\"Very Unlikely\",null,null,null,\"Very Likely\"]}",
+        "FlowId": 2,
+        "ExpName": "Exp 5",
+        "FlyoutTimer": 5,
+        "QuestionSheet": "{\"test\":true}",
+        "ControlTowerFlight": "FY20 Flight",
+        "Position": "BR"
     }
-  ], 
-  "updateModalFeedbackStatus": true
+]
 }
