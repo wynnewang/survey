@@ -41,5 +41,6 @@
       "RatingType": 1,
       "UseQuestionLabel": 1
     }
-  ]
+  ], 
+  "updateModalFeedbackStatus": true
 }
