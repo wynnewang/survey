@@ -46,5 +46,27 @@
 ], 
   "updateModalFeedbackStatus": {
     "response": true
+  }, 
+  "attributes":{
+    "adminRoleList": "NoRole",
+    "appId": "",
+    "browser": "",
+    "delegatedAdmin": false,
+    "feature": "",
+    "feedbackType": "",
+    "geoName": "",
+    "partner": "Office365",
+    "tenantId": "",
+    "locale": "en-US",
+    "sku": "",
+    "workload": "",
+    "userEmail": "test@fakeemail.com",
+    "tenantAge": 0,
+    "userAge": 0,
+    "totalLicenses": 0,
+    "cntry": "US",
+    "trial": false,
+    "puid": "12345puid",
+    "roles": ["aRole", "bRole"]
   }
 }
