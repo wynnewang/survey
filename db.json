@@ -58,7 +58,7 @@
     "partner": "Office365",
     "tenantId": "",
     "locale": "en-US",
-    "sku": "",
+    //"sku": "",
     "workload": "",
     "userEmail": "test@fakeemail.com",
     "tenantAge": 0,
