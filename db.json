@@ -7,7 +7,7 @@
     "appId":"", 
     "puid":"123456",
     "roles":["12345"]
-    "isDelegatedAdmin":"False",
+    "isDelegatedAdmin": false,
     "userAge":0,
     "userEmail":"fake@email.com", //optional
     "trial":false,
