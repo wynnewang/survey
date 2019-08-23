@@ -6,10 +6,10 @@
     "totalLicenses":-1,
     "appId":"", 
     "puid":"123456",
-    "roles":["12345"]
+    "roles":["12345"],
     "isDelegatedAdmin": false,
     "userAge":0,
-    "userEmail":"fake@email.com", //optional
+    "userEmail":"fake@email.com",
     "trial":false,
     "isConcierge": false, 
     "isPremier": false,
@@ -19,11 +19,11 @@
     "feature":"fakeFeature",
     "geoName":"scu",
     "partner":"",
-    "workload":"AdminPortal", //optional
-    "additionalInfo": "", //optional
-    "page": "default", //optional
-    "previewModeOn": false //optional
-    "sessionId":"", //optional
-    "flights":[], //optional
+    "workload":"AdminPortal",
+    "additionalInfo": "",
+    "page": "default",
+    "previewModeOn": false
+    "sessionId":"", 
+    "flights":[]
   }
 }
