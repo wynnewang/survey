@@ -22,7 +22,7 @@
     "workload":"AdminPortal",
     "additionalInfo": "",
     "page": "default",
-    "previewModeOn": false
+    "previewModeOn": false,
     "sessionId":"", 
     "flights":[]
   }
