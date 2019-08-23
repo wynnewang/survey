@@ -1,28 +1,29 @@
 {
   "attributes":{
-    "feature":"fakeFeature",
     "tenantId":"4c10a198-00b3-43a4-8e6f-b0eed6795def",
-    "geoName":"scu",
-    "delegatedAdmin":"False",
-    "browser":"Chrome",
-    "sku":"",
-    "hostAppDeploymentEnv":"MAC",
-    "partner":"",
-    "adminRoleList":"no Roles",
-    "workload":"AdminPortal",
-    "hostAppEnv":"dev",
-    "sessionId":"",
-    "flights":[],
-    "page":"default",
-    "userEmail":"fake@email.com",
-    "locale":"en-US",
     "tenantAge":0,
-    "userAge":0,
+    "sku":"",
     "totalLicenses":-1,
-    "trial":false,
-    "countryCode":"US",
-    "setUser":true,
+    "appId":"", 
     "puid":"123456",
     "roles":["12345"]
+    "isDelegatedAdmin":"False",
+    "userAge":0,
+    "userEmail":"fake@email.com", //optional
+    "trial":false,
+    "isConcierge": false, 
+    "isPremier": false,
+    "country":"US",
+    "browser":"Chrome",
+    "locale":"en-US",
+    "feature":"fakeFeature",
+    "geoName":"scu",
+    "partner":"",
+    "workload":"AdminPortal", //optional
+    "additionalInfo": "", //optional
+    "page": "default", //optional
+    "previewModeOn": false //optional
+    "sessionId":"", //optional
+    "flights":[], //optional
   }
 }
