@@ -11,8 +11,6 @@
     "country":"US",
     "browser":"Chrome",
     "locale":"en-US",
-    "partner":"Office365", 
-    "trial":null, 
-    "appId": "null"
+    "partner":"Office365"
   }
 }
