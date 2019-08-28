@@ -1,17 +1,12 @@
 {
   "attributes":{
     "tenantId":"4c10a198-00b3-43a4-8e6f-b0eed6795def",
-    "tenantAge":0,
-    "sku":"",
-    "totalLicenses":-1,
     "puid":"1234567",
     "roles":["12345"],
-    "userAge":0,
     "userEmail":"optional@fake.com",
     "country":"US",
     "browser":"Chrome",
     "locale":"en-US",
-    "partner":"Office365", 
-    "appId": null
+    "partner":"Office365"
   }
 }
