@@ -1,8 +1,8 @@
 {
   "attributes":{
-    "tenantId":"4c10a198-00b3-43a4-8e6f-b0eed6795def",
-    "puid":"1234567",
-    "roles":["12345"],
+    "tenantId":"0000000tenant-id0000000",
+    "puid":"0000puid0000",
+    "roles":["00role00"],
     "userEmail":"optional@fake.com",
     "country":"US",
     "browser":"Chrome",
